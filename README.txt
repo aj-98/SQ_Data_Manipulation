@@ -8,9 +8,10 @@ attempt to contact the voter was successful or not.
 REQUIREMENTS BEFORE RUNNING:
 Before running this script, the FOLLOWING REQUIREMENTS MUST BE MET:
 1) Python 3 must be installed on the computer that is running this script. It can be downloaded via www.python.org
-2) Open your command prompt (CMD on Windows, Linux on Mac). Clone these files by entering these commands: git clone https://github.com/aj-98/SQ_Data_Manipulation
-4) All other necessary requirements can be filled by running the following command: pip install -r requirements.txt OR
-pip3 install -r requirements.txt  .
+2) Open your command prompt (CMD on Windows, Linux on Mac). Clone these files by entering this command: git clone https://github.com/aj-98/SQ_Data_Manipulation
+3) Enter this command: cd SQ_Data_Manipulation
+4) Run this command: pip install -r requirements.txt OR
+pip3 install -r requirements.txt  .If you are operating in Linux(Mac), enter: sudo 
 
 HOW TO RUN:
 This script may be run using a Python IDE, such as PyCharm, or through the command line (Command Prompt on Windows,
