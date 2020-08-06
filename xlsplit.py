@@ -35,7 +35,7 @@ pd_data = None
 # Creation of DataFrame Using Pandas
 if (xl_path != None) and (xl_path != ''):
     try:
-        pd_data = pd.read_excel(xl_path, sheet_name='HubDialer 7.25.20', header=0)
+        pd_data = pd.read_excel(xl_path, header=0)
     except Error as e:
         print(e)
 else:
